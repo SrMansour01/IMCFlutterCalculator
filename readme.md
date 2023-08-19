@@ -37,6 +37,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou env
 Nome: [SrMansour01]
 GitHub: [SrMansour01](https://github.com/SrMansour01)
 
----
-
-Este projeto é fornecido sob a licença [MIT](LICENSE).
